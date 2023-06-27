@@ -10,6 +10,7 @@ Invader Zim-based theme for Skype for Web and replacement for the Skype app on W
 Install skirken.user.js in a userscript manager ([Tampermonkey](https://www.tampermonkey.net/) recommended).
 ### Skype application alternative
 Go into your browser settings and go to your "Security"/"Privacy and Security" section.  
+Go to Permissions > Pop-ups and Redirects.
 Add the following allowance:  
 `file://*/*`  
 Open Skype.html.
