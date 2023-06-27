@@ -1,11 +1,17 @@
 # Skype-Irken-Edition
-Invader Zim-based theme for Skype for Web and replacement for the Skype app on Windows 10.
+Invader Zim-based theme for Skype for Web and replacement for the Skype app on Windows 10.  
+![image](https://github.com/ImALiteralDude/Skype-Irken-Edition/assets/81701607/11d882cd-2469-4201-bf3e-cfea562e854d)
+
+
 
 ## Installation
 
 ### Theme
 Install skirken.user.js in a userscript manager ([Tampermonkey](https://www.tampermonkey.net/) recommended).
 ### Skype application alternative
+Go into your browser settings and go to your Security/Privacy and Security section.  
+Add the following allowance:  
+`file://*/*`  
 Open Skype.html.
 ### Pinning to taskbar
 Go into your file explorer and enable "File name extensions".
