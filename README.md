@@ -1,5 +1,5 @@
 # Skype-Irken-Edition
-Invader Zim-based theme for Skype for Web and replacement for the Skype app on Windows 10.  
+Invader Zim-inspired theme for Skype for Web and replacement for the Skype app on Windows 10.  
 ![image](https://github.com/ImALiteralDude/Skype-Irken-Edition/assets/81701607/0b156af3-bf01-4a1f-8925-aedd4d9703e5)
 
 
