@@ -228,7 +228,9 @@ link2.href = 'https://eus1-api.asm.skype.com/v1/objects/0-eus-d10-297cc26084629a
 }
 function fuckTheTinyLittleAssBarAtTheBottomYeahThatOne(){
 const penisVagina = document.querySelector('body > div.app-container > div > div > div:nth-child(1) > div.css-1dbjc4n.r-13awgt0 > div > div > div:nth-child(2)')
+if (penisVagina) {
 penisVagina.remove();
+}
 }
 function executeTheShit() {
 fuckTheBanner();
